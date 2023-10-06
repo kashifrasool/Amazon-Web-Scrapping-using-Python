@@ -1,6 +1,6 @@
-Amazon Web Scrapping using Python
+(Amazon Web Scrapping using Python)
 
-
+A project to scrap data from Amazon.
 
 
 
